@@ -2,8 +2,6 @@
 
 Pytorch implementation of the paper: "BMN: Boundary-Matching Network for Temporal Action Proposal Generation", along with three new modules to address overfitting issues found in the baseline model, and ablation studies for each module.
 
-[[Arxiv Preprint]](https://arxiv.org/abs/1907.09702)
-
 ## Contributors
 - Ben Sukboontip (bsukboon@cs.cmu.edu)
 - Jeffery Cao (jeffery2@cs.cmu.edu)
